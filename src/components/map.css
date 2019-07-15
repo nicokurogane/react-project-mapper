@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box !important;
+    --map-height: 90vh;
+}
+
+.map-div{
+    height:  var(--map-height) ;
+}
+/*
+.navbar {
+    min-height: 5vh;
+  }
+  
+  .navbar-brand {
+    padding: 0 15px;
+    height: 5vh;
+    line-height: 5vh;
+  }*/
